@@ -1,2 +1,2 @@
 # BeltFlyer
-Control the ship and avoid contact with the asteroids.
+Control the ship, avoid contact with the asteroids, and enjoy my very own astrophotography images in the background. :)
